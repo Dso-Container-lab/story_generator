@@ -1,4 +1,4 @@
 # Story Generator
 
 ## Gerador de Histórias
-### site onde está hospedadohttps://storygenerator.github.io/
+### site onde está hospedado https://storygenerator.github.io/
